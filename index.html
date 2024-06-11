@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="./assets/css/style.css">
+  <title>Challenge AluraGeek</title>
+</head>
+
+<body>
+  <header id="header">
+    <img class="logo-hearts" src="./assets/images/hearts.png" alt="imagem de três corações">
+    <h1>AluraGeek</h1>
+  </header>
+
+  <main>
+    <section class="container-products">
+      <h1 class="container-product-title">Meus Produtos:</h1>
+      <div id="painel" data-product></div>
+    </section>
+
+    <section class="form-add">
+      <h1 class="add-products-title">Adicionar Produto:</h1>
+      <form class="form" id="form" target="_blank" data-form>
+        <div class="add-products">
+          <input data-name type="text" id="campo-nome" placeholder="Nome..." required>
+          <input data-price type="text" id="campo-valor" placeholder="Valor..." required>
+          <input data-image type="text" id="campo-imagem" placeholder="Imagem..." required>
+        </div>
+        <div class="button-group">
+          <button class="save" id="save" type="submit">Guardar</button>
+          <button class="clear" id="clear" type="reset">Limpar</button>
+        </div>
+      </form>
+    </section>
+  </main>
+
+  <footer>
+    <div class="logo-hearts">
+      <img src="./assets/images/hearts.png" alt="imagem de três corações">
+      <h1>AluraGeek</h1>
+    </div>
+    <div class="development">
+      <p>Desenvolvido por Diego</p>
+      <p>Challenge AluraGeek 2024</p>
+    </div>
+  </footer>
+
+  <script src="./assets/js/script.js"></script>
+</body>
+
+</html>
