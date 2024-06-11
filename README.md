@@ -1,10 +1,10 @@
-# Loja de Revistas
+# Loja Star Wars
 
 ## 📒 Descrição
-Este projeto é uma loja de revistas desenvolvida com HTML, CSS e JavaScript. O usuário pode escolher produtos para comprar, descartar produtos indesejados e adicionar novos produtos com valor e imagem.
+Este projeto é uma loja de produtos Star Wars, desenvolvida com HTML, CSS e JavaScript. O usuário pode escolher produtos para comprar, descartar produtos indesejados e adicionar novos produtos com valor e imagem.
 
 ## 🚀 Funcionalidades
-- **Escolher Produtos**: Selecione as revistas que deseja comprar.
+- **Escolher Produtos**: Selecione os produtos que deseja comprar.
 - **Descartar Produtos**: Remova produtos indesejados do carrinho.
 - **Adicionar Produtos**: Adicione novos produtos à loja, especificando o valor e a imagem.
 
@@ -16,12 +16,12 @@ Este projeto é uma loja de revistas desenvolvida com HTML, CSS e JavaScript. O 
 ## 🧐 Como Utilizar
 Clone ou baixe este repositório para sua máquina local.
 
-Abra o arquivo `index.html` em seu navegador favorito para visualizar a loja de revistas.
+Abra o arquivo `index.html` em seu navegador favorito para visualizar a loja.
 
 Utilize as funcionalidades da loja:
 
    - **Adicionar Produtos**: Preencha o formulário de adição de produtos com o nome, valor e URL da imagem do produto, e clique no botão "Adicionar".
-   - **Escolher Produtos**: Navegue pela lista de revistas e adicione as desejadas ao carrinho.
+   - **Escolher Produtos**: Navegue pela lista de produtos e adicione as desejadas ao carrinho.
    - **Descartar Produtos**: Remova produtos indesejados do carrinho.
 
 ## 📂 Estrutura do Projeto
